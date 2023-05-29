@@ -1,5 +1,10 @@
 ### Olá! Eu sou o Jeferson Souza 🖐️
 
+- Engenheiro de Software Front-End comprometido em desenvolver soluções digitais personalizadas.
+- Experiência em implementar novas features e corrigir bugs em plataformas web utilizando ReactJS, TypeScript e Tailwind.
+- Facilidade para aprender e adaptar-se a novos cenários, sempre buscando expandir habilidades.
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jefesouzadev)](https://www.linkedin.com/in/jefesouzadev)
 
 ![Jeferson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefsouza-dev&show_icons=true&theme=onedark)
