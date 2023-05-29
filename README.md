@@ -9,6 +9,8 @@ Facilidade para aprender e adaptar-se a novos cenários, sempre buscando expandi
 
 ![Jeferson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefsouza-dev&show_icons=true&theme=onedark)
 
+Todos os projetos disponíveis em meus repositórios estão acessíveis online por meio dos links fornecidos na seção "Sobre" e estão em constante atualização para a implementação de novas funcionalidades e correção de bugs.
+
 ## Tecnologias que ultilizo
 
 <div style="display: inline_block"><br/>
