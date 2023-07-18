@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jeferson Souza 🖐️
+### Olá! Eu sou o Jeferson Gonçalves 🖐️
 
 Engenheiro de Software Front-End comprometido em desenvolver soluções digitais personalizadas.
 Experiência em implementar novas features e corrigir bugs em plataformas web utilizando ReactJS, TypeScript e Tailwind.
